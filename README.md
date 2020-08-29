@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+README for BlogHub:
 
-Things you may want to cover:
+* Ruby version 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
 
-* Ruby version
+* BlogHub uses a Postgresql  Database.
 
-* System dependencies
+* This is a blog hub for all bloggers to use.
 
-* Configuration
+* Deployment is for Heroku only.
 
-* Database creation
+* This software is owned by John A Baker Jr.
 
-* Database initialization
+* This software is not for sale to anyone.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* You can get to the About page with '/about' in the URL from the homepage.
