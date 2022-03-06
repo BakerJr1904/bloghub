@@ -1,6 +1,7 @@
 # README
 This project is ready to view and use @ Heroku.com<br/>
-[BlogHub](https://bloghub1904.herokuapp.com)<br/>
+[BlogHub Link:](https://bloghub1904.herokuapp.com)<br/>
+If app is asleep on Heroku it may load slow.
 
 
 * Ruby version 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
