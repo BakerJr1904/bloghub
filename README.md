@@ -1,7 +1,7 @@
 # README
 This project is ready to view and use @ Heroku.com<br/>
 [BlogHub Link:](https://bloghub1904.herokuapp.com)<br/>
-If the app is asleep on Heroku it may load slow, thank you for your patience.<br/>
+If the app is asleep on Heroku, it may load slow, thank you for your patience.<br/>
 
 This is a Ruby on Rails project that allows you to make an account, so you can post your very own blogs. Your account details and blog posts get saved to a PostgrSQL database. This is a fun and interesting project, please check out the functionality of this project. You can then delete your account if desired. Thank you for looking at my project.
 
