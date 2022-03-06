@@ -1,7 +1,7 @@
 # README
-This project is ready to view and use @ Heroku.com
-[BlogHub](https://www.linkedin.com/in/john-a-baker-jr/)
-README for :
+This project is ready to view and use @ Heroku.com<br/>
+[BlogHub](https://bloghub1904.herokuapp.com)<br/>
+
 
 * Ruby version 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
 
