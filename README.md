@@ -15,7 +15,6 @@ account if desired. Thank you for looking at my project.
 
 
 * Ruby version 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
-* 
 
 * BlogHub uses a Postgresql  Database.
 
