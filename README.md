@@ -27,6 +27,7 @@ account if desired. Thank you for looking at my project.
 * 
 
 * This software is owned by John A Baker Jr.
+* 
 
 * This software is not for sale to anyone.
 
