@@ -30,5 +30,6 @@ account if desired. Thank you for looking at my project.
 * 
 
 * This software is not for sale to anyone.
+* 
 
 * You can get to the About page with '/about' in the URL from the homepage.
