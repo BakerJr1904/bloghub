@@ -24,6 +24,7 @@ account if desired. Thank you for looking at my project.
 * 
 
 * Deployment is for Heroku only.
+* 
 
 * This software is owned by John A Baker Jr.
 
