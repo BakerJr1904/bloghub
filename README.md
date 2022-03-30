@@ -21,6 +21,7 @@ account if desired. Thank you for looking at my project.
 * 
 
 * This is a blog hub for all bloggers to use.
+* 
 
 * Deployment is for Heroku only.
 
