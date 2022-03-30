@@ -33,3 +33,4 @@ account if desired. Thank you for looking at my project.
 * 
 
 * You can get to the About page with '/about' in the URL from the homepage.
+* 
