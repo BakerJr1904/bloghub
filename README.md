@@ -18,7 +18,6 @@ This is a Ruby on Rails project that allows you to make an account, so you can p
 
 * This software is owned by John A Baker Jr.
 
-
 * This software is not for sale to anyone.
 
 * You can get to the About page with '/about' in the URL from the homepage.
