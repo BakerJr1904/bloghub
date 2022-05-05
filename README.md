@@ -10,6 +10,7 @@ This is a Ruby on Rails project that allows you to make an account, so you can p
 
 * Ruby version 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32]
 
+
 * BlogHub uses a Postgresql  Database.
 
 * This is a blog hub for all bloggers to use.
