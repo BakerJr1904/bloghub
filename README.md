@@ -14,6 +14,7 @@ This is a Ruby on Rails project that allows you to make an account, so you can p
 
 * This is a blog hub for all bloggers to use.
 
+
 * Deployment is for Heroku only.
 
 * This software is owned by John A Baker Jr.
