@@ -16,7 +16,6 @@ This is a Ruby on Rails project that allows you to make an account, so you can p
 
 * Deployment is for Heroku only.
 
-
 * This software is owned by John A Baker Jr.
 
 * This software is not for sale to anyone.
